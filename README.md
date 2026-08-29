@@ -9,7 +9,7 @@
 <h1 align="center">👋 Olá, eu sou o CacaYusef!</h1>
 
 <p align="center">
-  Desenvolvedor interessado em programação, dados e tecnologia.
+  Desenvolvedor interessado em finanças quantitativas e modelos preditivos
 </p>
 
 ---
