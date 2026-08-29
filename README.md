@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[./assets/banner.png" alt="Steins;Gate Banner](https://dribbble.com/shots/7061138-Steins-Gate-Banner-for-ReasonGFX)" width="100%">
+  <img src="./assets/banner.png" alt="Steins;Gate Banner](https://dribbble.com/shots/7061138-Steins-Gate-Banner-for-ReasonGFX" width="100%">
 </p>
 
 
