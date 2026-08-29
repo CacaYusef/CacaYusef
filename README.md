@@ -1,8 +1,6 @@
-<h1 align = "center"> Hey there 👋 </h1>
-
-I'm CacaYusef, an economist and data analyst based in Brazil.
-
-My favorite tools are R and SQL
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Steins;Gate Banner" width="100%">
+</p>
 
 
 ## 🌐 Me chame em:
