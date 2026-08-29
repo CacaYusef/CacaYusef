@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o CacaYusef!</h1>
+<h1 align="center">👋 Olá, eu sou o CacoJuse!</h1>
 
 <p align="center">
   Desenvolvedor interessado em finanças quantitativas e modelos preditivos
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Me encontre
+## 🌐 Me encontre no:
 
 <p align="center">
   <a href="https://discord.gg/cacojusef">
