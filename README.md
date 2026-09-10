@@ -52,20 +52,26 @@
 
 ## Featured Project
 
-### Firm Management & Economic Indicators
+### ENEM Performance & Socioeconomic Inequality — 2010–2023
 
-Análise de indicadores econômicos e dados empresariais com foco em
-exploração, tratamento e visualização de dados.
+Reproducible statistical analysis exploring how individual, family and
+municipal socioeconomic characteristics are associated with differences
+in ENEM performance across territories and over time.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=E9E9E9" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-202020?style=flat-square&logo=pandas&logoColor=E9E9E9" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-111111?style=flat-square&logo=jupyter&logoColor=E9E9E9" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=E9E9E9" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Statsmodels-202020?style=flat-square&logo=python&logoColor=E9E9E9" alt="Statsmodels" />
+  <img src="https://img.shields.io/badge/DuckDB-111111?style=flat-square&logo=duckdb&logoColor=E9E9E9" alt="DuckDB" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/CacaYusef/firm-management-economic-indicators">
-    <img src="https://img.shields.io/badge/View_repository-111111?style=flat-square&logo=github&logoColor=E9E9E9" alt="View repository" />
+  <a href="https://github.com/CacaYusef/enem-desempenho-desigualdade-socioeconomica-contexto-municipal-2010-2023">
+    <img
+      src="https://img.shields.io/badge/View_repository-111111?style=flat-square&logo=github&logoColor=E9E9E9"
+      alt="View repository"
+    />
   </a>
 </p>
 
