@@ -1,139 +1,86 @@
-<p align="center">
+<p>
   <img
     src="https://i.imgur.com/uWqBtBk.jpg"
-    alt="Banner"
+    alt="Steins;Gate Banner"
     width="100%"
   />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o CacoJuse!</h1>
+# CacoJuse
 
-<p align="center">
-  Desenvolvedor interessado em <b>finanças quantitativas</b>, <b>análise de dados</b> e <b>modelos preditivos</b>
-</p>
+**Quantitative Finance · Data Science · Machine Learning**
 
----
+Desenvolvedor interessado em transformar dados em modelos, análises e estratégias quantitativas.
 
-## 🌐 Me encontre no:
+Atualmente explorando aplicações de **Python**, **estatística**, **machine learning**
+e **modelagem preditiva** em problemas financeiros e econômicos.
 
-<p align="center">
-  <a href="https://discord.gg/cacojusef">
-    <img
-      src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-    >
-  </a>
-</p>
+<br>
 
----
+## Stack
 
-## 💻 Tecnologias e ferramentas
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=E9E9E9">
+<img src="https://img.shields.io/badge/R-202020?style=flat-square&logo=r&logoColor=E9E9E9">
+<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=E9E9E9">
+<img src="https://img.shields.io/badge/NumPy-202020?style=flat-square&logo=numpy&logoColor=E9E9E9">
+<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikitlearn&logoColor=E9E9E9">
+<img src="https://img.shields.io/badge/Matplotlib-202020?style=flat-square&logo=python&logoColor=E9E9E9">
+<img src="https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=E9E9E9">
+<img src="https://img.shields.io/badge/Git-202020?style=flat-square&logo=git&logoColor=E9E9E9">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=E9E9E9">
 
-### 🐍 Linguagens
+<br>
 
-<p align="left">
+## Featured project
+
+### Firm Management & Economic Indicators
+
+Análise de indicadores econômicos e dados empresariais com foco em exploração,
+tratamento e visualização de dados.
+
+`Python` · `Pandas` · `Jupyter Notebook`
+
+<a href="https://github.com/CacaYusef/firm-management-economic-indicators">
   <img
-    src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-    alt="Python"
+    src="https://img.shields.io/badge/View_repository-111111?style=flat-square&logo=github&logoColor=E9E9E9"
+    alt="View repository"
   >
+</a>
+
+<br>
+
+## Interests
+
+`Quantitative Finance` · `Data Science` · `Machine Learning` · `Predictive Modeling`
+
+<br>
+
+## GitHub
+
+<img
+  height="165"
+  src="https://github-readme-stats.shion.dev/api?username=CacaYusef&show_icons=true&hide_border=true&bg_color=00000000&title_color=E9E9E9&text_color=B3B3B3&icon_color=B3B3B3&include_all_commits=false&count_private=false"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=CacaYusef&layout=compact&hide_border=true&bg_color=00000000&title_color=E9E9E9&text_color=B3B3B3"
+/>
+
+<br>
+
+## Connect
+
+<a href="https://discord.gg/cacojusef">
   <img
-    src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"
-    alt="R"
+    src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=E9E9E9"
+    alt="Discord"
   >
-</p>
+</a>
 
-### 📊 Data Science & Machine Learning
+<br>
 
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-    alt="Pandas"
-  >
-  <img
-    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-    alt="NumPy"
-  >
-  <img
-    src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-    alt="Scikit-learn"
-  >
-  <img
-    src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"
-    alt="Matplotlib"
-  >
-</p>
-
-### 🛠️ Ferramentas
-
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-    alt="Git"
-  >
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  >
-  <img
-    src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
-    alt="Jupyter"
-  >
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-### 📊 Firm Management & Economic Indicators
-
-Projeto voltado para análise de indicadores econômicos e dados empresariais, utilizando ferramentas de análise e visualização de dados.
-
-**Tecnologias:** `Python` `Pandas` `Jupyter Notebook`
-
-<p align="left">
-  <a href="https://github.com/CacaYusef/firm-management-economic-indicators">
-    <img
-      src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Ver projeto"
-    >
-  </a>
-</p>
-
----
-
-## 📈 Áreas de interesse
-
-<p align="center">
-
-`Quantitative Finance` • `Data Science` • `Machine Learning` • `Predictive Modeling`
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=CacaYusef&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=CacaYusef&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 👀 Visitas ao perfil
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=CacaYusef&icon=0&color=0"
-    alt="Profile Views"
-  />
-</p>
+<img
+  src="https://komarev.com/ghpvc/?username=CacaYusef&style=flat-square&color=202020&label=Profile+views"
+  alt="Profile views"
+/>
